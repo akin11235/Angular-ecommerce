@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "oshop-884db": {
+      "hosting": {
+        "oshop": [
+          "oshop-884db"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "oshop-884db"
+  }
+}
